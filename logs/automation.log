@@ -371,3 +371,11 @@
 10:48:22.216 [main] INFO  - **** Clicked on register ***
 10:48:23.161 [main] INFO  - **** Customer details provided  ***
 10:48:23.857 [main] INFO  - **** Clicked on Continue ***
+21:02:44.803 [main] INFO  - User clicked on login button on home page
+21:02:45.008 [main] INFO  - Email and password entered into the fields
+21:02:45.819 [main] INFO  - clicked login button on login page
+21:02:47.935 [main] INFO  - **** register test started ***
+21:02:47.983 [main] INFO  - **** Clicked on Myaccount ***
+21:02:50.354 [main] INFO  - **** Clicked on register ***
+21:02:51.239 [main] INFO  - **** Customer details provided  ***
+21:02:51.926 [main] INFO  - **** Clicked on Continue ***
