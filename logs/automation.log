@@ -1,0 +1,373 @@
+07:40:07.808 [main] INFO  - **** register test started ***
+07:40:07.899 [main] INFO  - **** Clicked on Myaccount ***
+07:40:10.244 [main] INFO  - **** Clicked on register ***
+07:40:10.244 [main] INFO  - **** User is on register page***
+07:40:11.061 [main] INFO  - **** Customer details provided  ***
+07:40:12.141 [main] INFO  - **** Clicked on Continue ***
+07:47:15.402 [main] INFO  - **** register test started ***
+07:47:15.490 [main] INFO  - **** Clicked on Myaccount ***
+07:47:17.817 [main] INFO  - **** Clicked on register ***
+07:47:18.561 [main] INFO  - **** Customer details provided  ***
+07:47:19.277 [main] INFO  - **** Clicked on Continue ***
+07:54:07.736 [main] INFO  - **** register test started ***
+07:54:07.847 [main] INFO  - **** Clicked on Myaccount ***
+07:54:10.233 [main] INFO  - **** Clicked on register ***
+07:54:11.081 [main] INFO  - **** Customer details provided  ***
+07:54:11.942 [main] INFO  - **** Clicked on Continue ***
+07:54:50.892 [main] INFO  - **** register test started ***
+07:54:51.019 [main] INFO  - **** Clicked on Myaccount ***
+07:54:53.508 [main] INFO  - **** Clicked on register ***
+07:54:54.681 [main] INFO  - **** Customer details provided  ***
+07:54:55.408 [main] INFO  - **** Clicked on Continue ***
+07:54:55.444 [main] ERROR - Test failed
+07:54:55.444 [main] DEBUG - Debug logs
+09:00:22.145 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:00:22.152 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:00:22.155 [TestNG-tests-1] DEBUG - Parsing relationship: /_rels/.rels
+09:00:22.639 [TestNG-tests-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:00:22.770 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:00:22.771 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:00:22.773 [TestNG-tests-1] DEBUG - Parsing relationship: /_rels/.rels
+09:00:22.795 [TestNG-tests-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:00:22.816 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:00:22.817 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:00:22.818 [TestNG-tests-1] DEBUG - Parsing relationship: /_rels/.rels
+09:00:22.835 [TestNG-tests-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:00:22.869 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:00:22.870 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:00:22.871 [TestNG-tests-1] DEBUG - Parsing relationship: /_rels/.rels
+09:00:22.885 [TestNG-tests-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:00:22.900 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:00:22.901 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:00:22.903 [TestNG-tests-1] DEBUG - Parsing relationship: /_rels/.rels
+09:00:22.921 [TestNG-tests-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:00:22.935 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:00:22.936 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:00:22.937 [TestNG-tests-1] DEBUG - Parsing relationship: /_rels/.rels
+09:00:22.953 [TestNG-tests-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:00:22.971 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:00:22.972 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:00:22.973 [TestNG-tests-1] DEBUG - Parsing relationship: /_rels/.rels
+09:00:22.987 [TestNG-tests-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:00:23.007 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:00:23.008 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:00:23.009 [TestNG-tests-1] DEBUG - Parsing relationship: /_rels/.rels
+09:00:23.019 [TestNG-tests-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:00:23.032 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:00:23.033 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:00:23.034 [TestNG-tests-1] DEBUG - Parsing relationship: /_rels/.rels
+09:00:23.049 [TestNG-tests-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:00:23.067 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:00:23.068 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:00:23.070 [TestNG-tests-1] DEBUG - Parsing relationship: /_rels/.rels
+09:00:23.083 [TestNG-tests-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:00:23.097 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:00:23.098 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:00:23.099 [TestNG-tests-1] DEBUG - Parsing relationship: /_rels/.rels
+09:00:23.114 [TestNG-tests-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:00:23.130 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:00:23.131 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:00:23.131 [TestNG-tests-1] DEBUG - Parsing relationship: /_rels/.rels
+09:00:23.140 [TestNG-tests-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:00:23.153 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:00:23.155 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:00:23.156 [TestNG-tests-1] DEBUG - Parsing relationship: /_rels/.rels
+09:00:23.168 [TestNG-tests-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:00:23.183 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:00:23.184 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:00:23.185 [TestNG-tests-1] DEBUG - Parsing relationship: /_rels/.rels
+09:00:23.195 [TestNG-tests-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:00:23.208 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:00:23.209 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:00:23.212 [TestNG-tests-1] DEBUG - Parsing relationship: /_rels/.rels
+09:00:23.221 [TestNG-tests-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:00:23.238 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:00:23.239 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:00:23.240 [TestNG-tests-1] DEBUG - Parsing relationship: /_rels/.rels
+09:00:23.250 [TestNG-tests-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:00:23.265 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:00:23.266 [TestNG-tests-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:00:23.267 [TestNG-tests-1] DEBUG - Parsing relationship: /_rels/.rels
+09:00:23.274 [TestNG-tests-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:00:23.306 [TestNG-tests-1] INFO  - **** Starting loginDDtc*****
+09:00:23.748 [TestNG-tests-1] INFO  - **** User clicked on login link in homepage*****
+09:00:24.128 [TestNG-tests-1] INFO  - **** User clicked on login by providing user name and pwd*****
+09:00:25.069 [TestNG-tests-1] INFO  - **** Starting loginDDtc*****
+09:00:25.353 [TestNG-tests-1] INFO  - **** User clicked on login link in homepage*****
+09:00:25.551 [TestNG-tests-1] INFO  - **** User clicked on login by providing user name and pwd*****
+09:00:26.454 [TestNG-tests-1] INFO  - **** Starting loginDDtc*****
+09:00:26.719 [TestNG-tests-1] INFO  - **** User clicked on login link in homepage*****
+09:00:26.933 [TestNG-tests-1] INFO  - **** User clicked on login by providing user name and pwd*****
+09:00:27.916 [TestNG-tests-1] INFO  - **** Starting loginDDtc*****
+09:00:28.174 [TestNG-tests-1] INFO  - **** User clicked on login link in homepage*****
+09:00:28.864 [TestNG-tests-1] INFO  - **** User clicked on login by providing user name and pwd*****
+09:00:38.905 [TestNG-tests-1] INFO  - **** Starting loginDDtc*****
+09:00:39.211 [TestNG-tests-1] INFO  - **** User clicked on login link in homepage*****
+09:00:40.106 [TestNG-tests-1] INFO  - **** User clicked on login by providing user name and pwd*****
+08:02:21.854 [TestNG-tests-1] INFO  - User clicked on login button on home page
+08:02:22.064 [TestNG-tests-1] INFO  - Email and password entered into the fields
+08:02:22.135 [TestNG-tests-1] INFO  - clicked login button on login page
+08:03:21.626 [TestNG-tests-1] INFO  - **** register test started ***
+08:03:21.793 [TestNG-tests-1] INFO  - **** Clicked on Myaccount ***
+08:03:24.113 [TestNG-tests-1] INFO  - **** Clicked on register ***
+08:03:24.903 [TestNG-tests-1] INFO  - **** Customer details provided  ***
+08:03:25.793 [TestNG-tests-1] INFO  - **** Clicked on Continue ***
+08:03:28.302 [TestNG-tests-1] INFO  - User clicked on login button on home page
+08:03:28.574 [TestNG-tests-1] INFO  - Email and password entered into the fields
+08:03:28.633 [TestNG-tests-1] INFO  - clicked login button on login page
+08:04:56.595 [TestNG-tests-1] INFO  - **** register test started ***
+08:04:56.711 [TestNG-tests-1] INFO  - **** Clicked on Myaccount ***
+08:04:59.056 [TestNG-tests-1] INFO  - **** Clicked on register ***
+08:04:59.845 [TestNG-tests-1] INFO  - **** Customer details provided  ***
+08:05:00.548 [TestNG-tests-1] INFO  - **** Clicked on Continue ***
+08:06:12.978 [TestNG-tests-1] INFO  - **** register test started ***
+08:06:13.058 [TestNG-tests-1] INFO  - **** Clicked on Myaccount ***
+08:06:15.441 [TestNG-tests-1] INFO  - **** Clicked on register ***
+08:06:16.265 [TestNG-tests-1] INFO  - **** Customer details provided  ***
+08:06:17.207 [TestNG-tests-1] INFO  - **** Clicked on Continue ***
+08:06:20.104 [TestNG-tests-1] INFO  - User clicked on login button on home page
+08:06:20.376 [TestNG-tests-1] INFO  - Email and password entered into the fields
+08:06:20.471 [TestNG-tests-1] INFO  - clicked login button on login page
+09:06:06.745 [TestNG-tests-1] INFO  - User clicked on login button on home page
+09:06:06.967 [TestNG-tests-1] INFO  - Email and password entered into the fields
+09:06:07.037 [TestNG-tests-1] INFO  - clicked login button on login page
+07:19:30.759 [TestNG-tests-1] INFO  - User clicked on login button on home page
+07:19:31.020 [TestNG-tests-1] INFO  - Email and password entered into the fields
+07:19:31.091 [TestNG-tests-1] INFO  - clicked login button on login page
+07:53:46.288 [TestNG-tests-1] INFO  - **** register test started ***
+07:53:46.442 [TestNG-tests-1] INFO  - **** Clicked on Myaccount ***
+07:53:48.811 [TestNG-tests-1] INFO  - **** Clicked on register ***
+07:53:49.713 [TestNG-tests-1] INFO  - **** Customer details provided  ***
+07:53:50.548 [TestNG-tests-1] INFO  - **** Clicked on Continue ***
+07:53:53.115 [TestNG-tests-1] INFO  - User clicked on login button on home page
+07:53:53.376 [TestNG-tests-1] INFO  - Email and password entered into the fields
+07:53:53.475 [TestNG-tests-1] INFO  - clicked login button on login page
+07:55:15.745 [TestNG-tests-1] INFO  - **** register test started ***
+07:55:15.887 [TestNG-tests-1] INFO  - **** Clicked on Myaccount ***
+07:55:18.234 [TestNG-tests-1] INFO  - **** Clicked on register ***
+07:55:19.206 [TestNG-tests-1] INFO  - **** Customer details provided  ***
+07:55:20.058 [TestNG-tests-1] INFO  - **** Clicked on Continue ***
+07:55:22.464 [TestNG-tests-1] INFO  - User clicked on login button on home page
+07:55:22.755 [TestNG-tests-1] INFO  - Email and password entered into the fields
+07:55:22.822 [TestNG-tests-1] INFO  - clicked login button on login page
+07:57:06.303 [TestNG-tests-1] INFO  - **** register test started ***
+07:57:06.449 [TestNG-tests-1] INFO  - **** Clicked on Myaccount ***
+07:57:08.630 [TestNG-tests-1] INFO  - **** Clicked on register ***
+07:57:09.767 [TestNG-tests-1] INFO  - **** Customer details provided  ***
+07:57:10.638 [TestNG-tests-1] INFO  - **** Clicked on Continue ***
+07:57:13.377 [TestNG-tests-1] INFO  - User clicked on login button on home page
+07:57:13.609 [TestNG-tests-1] INFO  - Email and password entered into the fields
+07:57:13.699 [TestNG-tests-1] INFO  - clicked login button on login page
+07:58:33.270 [TestNG-tests-1] INFO  - **** register test started ***
+07:58:33.381 [TestNG-tests-1] INFO  - **** Clicked on Myaccount ***
+07:58:35.727 [TestNG-tests-1] INFO  - **** Clicked on register ***
+07:58:47.252 [TestNG-tests-1] INFO  - **** register test started ***
+07:58:47.324 [TestNG-tests-1] INFO  - **** Clicked on Myaccount ***
+07:58:49.710 [TestNG-tests-1] INFO  - **** Clicked on register ***
+07:58:50.496 [TestNG-tests-1] INFO  - **** Customer details provided  ***
+07:58:51.209 [TestNG-tests-1] INFO  - **** Clicked on Continue ***
+07:58:53.544 [TestNG-tests-1] INFO  - User clicked on login button on home page
+07:58:53.872 [TestNG-tests-1] INFO  - Email and password entered into the fields
+07:58:53.946 [TestNG-tests-1] INFO  - clicked login button on login page
+08:00:28.214 [TestNG-tests-1] INFO  - **** register test started ***
+08:00:28.536 [TestNG-tests-1] INFO  - **** Clicked on Myaccount ***
+08:00:30.916 [TestNG-tests-1] INFO  - **** Clicked on register ***
+08:00:31.954 [TestNG-tests-1] INFO  - **** Customer details provided  ***
+08:00:32.743 [TestNG-tests-1] INFO  - **** Clicked on Continue ***
+08:00:35.678 [TestNG-tests-1] INFO  - User clicked on login button on home page
+08:00:36.033 [TestNG-tests-1] INFO  - Email and password entered into the fields
+08:00:36.106 [TestNG-tests-1] INFO  - clicked login button on login page
+08:05:05.588 [TestNG-tests-1] INFO  - **** register test started ***
+08:05:05.730 [TestNG-tests-1] INFO  - **** Clicked on Myaccount ***
+08:05:08.069 [TestNG-tests-1] INFO  - **** Clicked on register ***
+08:05:08.836 [TestNG-tests-1] INFO  - **** Customer details provided  ***
+08:05:09.665 [TestNG-tests-1] INFO  - **** Clicked on Continue ***
+08:05:12.521 [TestNG-tests-1] INFO  - User clicked on login button on home page
+08:05:12.778 [TestNG-tests-1] INFO  - Email and password entered into the fields
+08:05:13.613 [TestNG-tests-1] INFO  - clicked login button on login page
+08:12:06.446 [TestNG-tests-1] INFO  - User clicked on login button on home page
+08:12:06.680 [TestNG-tests-1] INFO  - Email and password entered into the fields
+08:12:07.327 [TestNG-tests-1] INFO  - clicked login button on login page
+08:13:01.176 [TestNG-tests-1] INFO  - User clicked on login button on home page
+08:13:01.455 [TestNG-tests-1] INFO  - Email and password entered into the fields
+08:13:01.977 [TestNG-tests-1] INFO  - clicked login button on login page
+08:14:15.609 [TestNG-tests-1] INFO  - User clicked on login button on home page
+08:14:15.962 [TestNG-tests-1] INFO  - Email and password entered into the fields
+08:14:16.394 [TestNG-tests-1] INFO  - clicked login button on login page
+08:43:30.618 [TestNG-tests-1] INFO  - User clicked on login button on home page
+08:43:30.941 [TestNG-tests-1] INFO  - Email and password entered into the fields
+08:43:31.007 [TestNG-tests-1] INFO  - clicked login button on login page
+08:44:55.088 [TestNG-tests-1] INFO  - User clicked on login button on home page
+08:44:55.407 [TestNG-tests-1] INFO  - Email and password entered into the fields
+08:44:55.470 [TestNG-tests-1] INFO  - clicked login button on login page
+08:45:23.490 [TestNG-tests-1] INFO  - User clicked on login button on home page
+08:45:23.859 [TestNG-tests-1] INFO  - Email and password entered into the fields
+08:45:23.950 [TestNG-tests-1] INFO  - clicked login button on login page
+08:45:46.407 [TestNG-tests-1] INFO  - User clicked on login button on home page
+08:45:46.706 [TestNG-tests-1] INFO  - Email and password entered into the fields
+08:45:47.295 [TestNG-tests-1] INFO  - clicked login button on login page
+08:46:38.265 [TestNG-tests-1] INFO  - User clicked on login button on home page
+08:46:38.481 [TestNG-tests-1] INFO  - Email and password entered into the fields
+08:46:38.597 [TestNG-tests-1] INFO  - clicked login button on login page
+08:51:45.788 [TestNG-tests-1] INFO  - User clicked on login button on home page
+08:51:46.391 [TestNG-tests-1] INFO  - Email and password entered into the fields
+08:51:46.491 [TestNG-tests-1] INFO  - clicked login button on login page
+08:52:28.352 [main] INFO  - User clicked on login button on home page
+08:52:29.242 [main] INFO  - Email and password entered into the fields
+08:52:30.127 [main] INFO  - clicked login button on login page
+08:56:23.690 [main] INFO  - User clicked on login button on home page
+08:56:23.961 [main] INFO  - Email and password entered into the fields
+08:56:24.686 [main] INFO  - clicked login button on login page
+08:56:43.442 [main] INFO  - User clicked on login button on home page
+08:56:43.717 [main] INFO  - Email and password entered into the fields
+08:56:43.813 [main] INFO  - clicked login button on login page
+08:56:58.236 [main] INFO  - User clicked on login button on home page
+08:56:58.510 [main] INFO  - Email and password entered into the fields
+08:56:59.211 [main] INFO  - clicked login button on login page
+09:00:34.914 [TestNG-tests-1] INFO  - User clicked on login button on home page
+09:00:35.170 [TestNG-tests-1] INFO  - Email and password entered into the fields
+09:00:35.880 [TestNG-tests-1] INFO  - clicked login button on login page
+09:00:38.342 [TestNG-tests-1] INFO  - **** register test started ***
+09:00:38.410 [TestNG-tests-1] INFO  - **** Clicked on Myaccount ***
+09:00:40.782 [TestNG-tests-1] INFO  - **** Clicked on register ***
+09:00:41.811 [TestNG-tests-1] INFO  - **** Customer details provided  ***
+09:00:42.533 [TestNG-tests-1] INFO  - **** Clicked on Continue ***
+09:01:24.271 [TestNG-tests-1] INFO  - User clicked on login button on home page
+09:01:24.486 [TestNG-tests-1] INFO  - Email and password entered into the fields
+09:01:24.575 [TestNG-tests-1] INFO  - clicked login button on login page
+09:01:27.793 [TestNG-tests-1] INFO  - **** register test started ***
+09:01:27.854 [TestNG-tests-1] INFO  - **** Clicked on Myaccount ***
+09:01:30.261 [TestNG-tests-1] INFO  - **** Clicked on register ***
+09:01:31.470 [TestNG-tests-1] INFO  - **** Customer details provided  ***
+09:01:32.371 [TestNG-tests-1] INFO  - **** Clicked on Continue ***
+09:02:16.597 [TestNG-tests-1] INFO  - User clicked on login button on home page
+09:02:17.791 [TestNG-tests-1] INFO  - Email and password entered into the fields
+09:02:19.748 [TestNG-tests-1] INFO  - clicked login button on login page
+09:02:30.933 [TestNG-tests-2] INFO  - User clicked on login button on home page
+09:02:31.581 [TestNG-tests-2] DEBUG - Failed
+09:02:34.901 [TestNG-tests-1] INFO  - **** register test started ***
+09:02:35.125 [TestNG-tests-1] INFO  - **** Clicked on Myaccount ***
+09:02:37.633 [TestNG-tests-1] INFO  - **** Clicked on register ***
+09:02:38.760 [TestNG-tests-1] INFO  - **** Customer details provided  ***
+09:02:39.789 [TestNG-tests-1] INFO  - **** Clicked on Continue ***
+09:03:26.096 [TestNG-tests-1] DEBUG - Failed
+09:03:36.120 [TestNG-tests-2] DEBUG - Failed
+09:03:40.916 [TestNG-tests-1] INFO  - **** register test started ***
+09:03:40.973 [TestNG-tests-2] INFO  - **** register test started ***
+09:03:41.079 [TestNG-tests-1] INFO  - **** Clicked on Myaccount ***
+09:03:41.105 [TestNG-tests-2] INFO  - **** Clicked on Myaccount ***
+09:03:43.689 [TestNG-tests-1] INFO  - **** Clicked on register ***
+09:04:24.148 [TestNG-tests-2] INFO  - **** register test started ***
+09:04:24.203 [TestNG-tests-2] INFO  - **** Clicked on Myaccount ***
+09:04:26.571 [TestNG-tests-2] INFO  - **** Clicked on register ***
+09:04:27.379 [TestNG-tests-2] INFO  - **** Customer details provided  ***
+09:04:28.206 [TestNG-tests-2] INFO  - **** Clicked on Continue ***
+09:05:56.918 [TestNG-tests-2] DEBUG - Failed
+09:06:06.896 [TestNG-tests-1] INFO  - User clicked on login button on home page
+09:06:06.935 [TestNG-tests-1] DEBUG - Failed
+09:07:35.038 [main] INFO  - User clicked on login button on home page
+09:07:35.272 [main] INFO  - Email and password entered into the fields
+09:07:36.008 [main] INFO  - clicked login button on login page
+09:07:40.610 [main] INFO  - User clicked on login button on home page
+09:07:40.932 [main] INFO  - Email and password entered into the fields
+09:07:41.667 [main] INFO  - clicked login button on login page
+09:08:22.326 [TestNG-tests-1] DEBUG - Failed
+09:08:27.994 [TestNG-tests-2] DEBUG - Failed
+06:38:52.956 [TestNG-tests-2] DEBUG - Failed
+06:39:03.219 [TestNG-tests-1] DEBUG - Failed
+06:50:39.749 [TestNG-tests-1] INFO  - User clicked on login button on home page
+06:50:39.748 [TestNG-tests-2] INFO  - User clicked on login button on home page
+06:50:40.555 [TestNG-tests-2] INFO  - Email and password entered into the fields
+06:50:40.752 [TestNG-tests-1] INFO  - Email and password entered into the fields
+06:50:42.014 [TestNG-tests-2] INFO  - clicked login button on login page
+06:50:42.266 [TestNG-tests-1] INFO  - clicked login button on login page
+08:28:07.075 [main] INFO  - User clicked on login button on home page
+08:28:07.521 [main] INFO  - Email and password entered into the fields
+08:28:07.654 [main] INFO  - clicked login button on login page
+08:28:10.085 [main] INFO  - **** register test started ***
+08:28:10.304 [main] INFO  - **** Clicked on Myaccount ***
+08:28:12.698 [main] INFO  - **** Clicked on register ***
+08:28:13.906 [main] INFO  - **** Customer details provided  ***
+08:28:14.708 [main] INFO  - **** Clicked on Continue ***
+08:28:57.257 [main] INFO  - User clicked on login button on home page
+08:28:57.593 [main] INFO  - Email and password entered into the fields
+08:28:58.297 [main] INFO  - clicked login button on login page
+08:29:00.045 [main] INFO  - **** register test started ***
+08:29:00.129 [main] INFO  - **** Clicked on Myaccount ***
+08:29:02.529 [main] INFO  - **** Clicked on register ***
+08:29:03.719 [main] INFO  - **** Customer details provided  ***
+08:29:04.542 [main] INFO  - **** Clicked on Continue ***
+08:34:37.071 [main] INFO  - User clicked on login button on home page
+08:34:38.039 [main] INFO  - Email and password entered into the fields
+08:34:38.218 [main] INFO  - clicked login button on login page
+08:34:40.564 [main] INFO  - **** register test started ***
+08:34:40.627 [main] INFO  - **** Clicked on Myaccount ***
+08:34:43.017 [main] INFO  - **** Clicked on register ***
+08:34:44.053 [main] INFO  - **** Customer details provided  ***
+08:34:44.834 [main] INFO  - **** Clicked on Continue ***
+08:35:01.022 [main] INFO  - User clicked on login button on home page
+08:35:01.515 [main] INFO  - Email and password entered into the fields
+08:35:02.708 [main] INFO  - clicked login button on login page
+08:35:08.592 [main] INFO  - **** register test started ***
+08:35:08.681 [main] INFO  - **** Clicked on Myaccount ***
+08:35:10.796 [main] INFO  - **** Clicked on register ***
+08:36:42.400 [main] INFO  - User clicked on login button on home page
+08:36:42.631 [main] INFO  - Email and password entered into the fields
+08:36:43.565 [main] INFO  - clicked login button on login page
+08:36:48.451 [main] INFO  - **** register test started ***
+08:36:48.542 [main] INFO  - **** Clicked on Myaccount ***
+08:36:50.597 [main] INFO  - **** Clicked on register ***
+08:40:15.099 [main] INFO  - User clicked on login button on home page
+08:40:15.291 [main] INFO  - Email and password entered into the fields
+08:40:16.017 [main] INFO  - clicked login button on login page
+08:40:20.572 [main] INFO  - **** register test started ***
+08:40:20.703 [main] INFO  - **** Clicked on Myaccount ***
+08:40:22.754 [main] INFO  - **** Clicked on register ***
+08:43:39.934 [main] INFO  - User clicked on login button on home page
+08:43:40.277 [main] INFO  - Email and password entered into the fields
+08:43:41.135 [main] INFO  - clicked login button on login page
+08:43:43.038 [main] INFO  - **** register test started ***
+08:43:43.124 [main] INFO  - **** Clicked on Myaccount ***
+08:43:45.729 [main] INFO  - **** Clicked on register ***
+08:43:46.976 [main] INFO  - **** Customer details provided  ***
+08:43:47.842 [main] INFO  - **** Clicked on Continue ***
+18:10:27.038 [main] INFO  - User clicked on login button on home page
+18:10:27.679 [main] INFO  - Email and password entered into the fields
+18:10:28.669 [main] INFO  - clicked login button on login page
+18:10:30.877 [main] INFO  - **** register test started ***
+18:10:31.007 [main] INFO  - **** Clicked on Myaccount ***
+18:10:33.458 [main] INFO  - **** Clicked on register ***
+18:10:34.936 [main] INFO  - **** Customer details provided  ***
+18:10:35.899 [main] INFO  - **** Clicked on Continue ***
+19:44:21.825 [main] INFO  - User clicked on login button on home page
+19:44:22.549 [main] INFO  - Email and password entered into the fields
+19:44:23.581 [main] INFO  - clicked login button on login page
+19:44:26.167 [main] INFO  - **** register test started ***
+19:44:26.360 [main] INFO  - **** Clicked on Myaccount ***
+19:44:30.332 [main] INFO  - **** Clicked on register ***
+19:44:33.680 [main] INFO  - **** Customer details provided  ***
+19:44:34.805 [main] INFO  - **** Clicked on Continue ***
+10:42:04.506 [main] INFO  - User clicked on login button on home page
+10:42:04.862 [main] INFO  - Email and password entered into the fields
+10:42:05.967 [main] INFO  - clicked login button on login page
+10:42:08.876 [main] INFO  - **** register test started ***
+10:42:08.929 [main] INFO  - **** Clicked on Myaccount ***
+10:42:11.316 [main] INFO  - **** Clicked on register ***
+10:42:12.316 [main] INFO  - **** Customer details provided  ***
+10:42:13.125 [main] INFO  - **** Clicked on Continue ***
+10:45:07.559 [main] INFO  - User clicked on login button on home page
+10:45:07.878 [main] INFO  - Email and password entered into the fields
+10:45:07.966 [main] INFO  - clicked login button on login page
+10:45:11.830 [main] INFO  - **** register test started ***
+10:45:11.931 [main] INFO  - **** Clicked on Myaccount ***
+10:45:14.320 [main] INFO  - **** Clicked on register ***
+10:45:15.396 [main] INFO  - **** Customer details provided  ***
+10:45:16.288 [main] INFO  - **** Clicked on Continue ***
+10:48:16.398 [main] INFO  - User clicked on login button on home page
+10:48:16.750 [main] INFO  - Email and password entered into the fields
+10:48:17.564 [main] INFO  - clicked login button on login page
+10:48:19.817 [main] INFO  - **** register test started ***
+10:48:19.856 [main] INFO  - **** Clicked on Myaccount ***
+10:48:22.216 [main] INFO  - **** Clicked on register ***
+10:48:23.161 [main] INFO  - **** Customer details provided  ***
+10:48:23.857 [main] INFO  - **** Clicked on Continue ***
