@@ -379,3 +379,11 @@
 21:02:50.354 [main] INFO  - **** Clicked on register ***
 21:02:51.239 [main] INFO  - **** Customer details provided  ***
 21:02:51.926 [main] INFO  - **** Clicked on Continue ***
+11:34:30.938 [main] INFO  - User clicked on login button on home page
+11:34:31.291 [main] INFO  - Email and password entered into the fields
+11:34:31.379 [main] INFO  - clicked login button on login page
+11:34:34.255 [main] INFO  - **** register test started ***
+11:34:34.319 [main] INFO  - **** Clicked on Myaccount ***
+11:34:36.671 [main] INFO  - **** Clicked on register ***
+11:34:37.651 [main] INFO  - **** Customer details provided  ***
+11:34:38.391 [main] INFO  - **** Clicked on Continue ***
